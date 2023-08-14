@@ -2,11 +2,9 @@
 
 ### Description
 
-This repository contains my solutions to the bioinformatics problems found on the Rosalind website.
+This repository contains my solutions to the bioinformatics problems found on the [Rosalind website](https://rosalind.info/about/).
 
-Rosalind website: [http://www.rosalind.info](https://rosalind.info/about/)
-
-My Rosalind profile: [https://rosalind.info/users/hi_towie/](https://rosalind.info/users/hi_towie/)
+###### *You can find my Rosalind profile [here](https://rosalind.info/users/hi_towie/).*
 
 ---
 
